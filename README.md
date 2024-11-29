@@ -37,7 +37,7 @@ Here are some quick details about the series:
 > *"There’s nothing wrong with wanting to disappear. But you know what? Even if you vanish, the world keeps turning, and people will move on."*
 
 ### Example Artwork  
-![Oyasumi Punpun Panel]([https://upload.wikimedia.org/path/to/image.jpg](https://preview.redd.it/6a7rp6dmfpi71.jpg?width=828&format=pjpg&auto=webp&s=0ff359995568b4d2cc1d64431fa34be7c9ed29ec))  
+![Oyasumi Punpun Panel]([[https://upload.wikimedia.org/path/to/image.jpg](https://preview.redd.it/6a7rp6dmfpi71.jpg?width=828&format=pjpg&auto=webp&s=0ff359995568b4d2cc1d64431fa34be7c9ed29ec)](https://static.wikia.nocookie.net/punpun/images/d/d4/PunPun_watching_shooting_stars.jpg/revision/latest/scale-to-width-down/1000?cb=20220827141811))  
 *Note: Replace with an actual image if hosting on your repo.*
 
 ---
